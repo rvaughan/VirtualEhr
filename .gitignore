@@ -160,4 +160,5 @@ buildNumber.properties
 .settings
 bin
 .classpath
+.factorypath
 .project
